@@ -1,0 +1,17 @@
+#Cris Anderson's Homepage
+
+<a href="http://crisanderson.github.com/CrisAnderson-CV.pdf">Cris Anderson Resume</a>
+<br>
+<a href="http://www.linkedin.com/pub/cris-anderson/6/9b4/2b0">LinkedIn</a>
+<br>
+<a href="http://grabcad.com/cris">GrabCAD profile page</a>
+
+
+##Random collection of things I'm working on:
+
+###Volunteer team leader for the Mongolian translation team at Sugarlabs (OLPC)
+
+See our progress here: <a href="http://translate.sugarlabs.org/mn/">Sugar Labs</a>
+
+More coming soon...
+
